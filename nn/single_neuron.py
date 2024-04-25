@@ -15,4 +15,5 @@ if __name__ == "__main__":
     print("inputs: ", inputs)
     print("weights: ", weights)
     print("bias: ", bias)
-    print("output: ", single_neuron(inputs,weights,bias)) 
+    print("output: ", single_neuron(inputs, weights, bias))
+
